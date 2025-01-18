@@ -1,4 +1,4 @@
-![Simulator Screenshot](https://github.com/kawin101/flutter_cupertino_ios_app/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-01-18%20at%2016.09.22.png)
+<img src="https://github.com/kawin101/flutter_cupertino_ios_app/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-01-18%20at%2016.09.22.png" alt="Simulator Screenshot" width="400" height="400">
 
 # flutter_cupertino_ios_app
 
