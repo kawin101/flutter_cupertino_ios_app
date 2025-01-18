@@ -40,3 +40,8 @@ Before you begin, ensure you have met the following requirements:
 To run the Flutter project, use the following command:
 ```sh
 flutter run
+```
+
+### Credit
+
+This project was inspired by the tutorial: [Flutter Cupertino iOS App](https://youtu.be/3PdUaidHc-E?si=u1IYQzqQxY7Wikro)
