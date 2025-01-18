@@ -14,7 +14,29 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, ensure you have met the following requirements:
+- You have installed [Flutter](https://flutter.dev/docs/get-started/install)
+- You have a compatible IDE such as [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/)
+
+### Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/kawin101/flutter_cupertino_ios_app.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd flutter_cupertino_ios_app
+    ```
+3. Get the dependencies:
+    ```sh
+    flutter pub get
+    ```
+
+### Running the Project
+
+To run the Flutter project, use the following command:
+```sh
+flutter run
